@@ -1,2 +1,2 @@
-# 0xAnasEzz.github.io
+# Take a byte 💻
 My personal blog.
